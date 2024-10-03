@@ -8,7 +8,7 @@
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar_place_detail"
-        android:background="@color/colorPrimary"
+        android:background="@color/button_background_color"
         android:theme="@style/CustomToolbarStyle"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
@@ -63,7 +63,7 @@
                 android:layout_marginStart="@dimen/detail_screen_location_marginStartEnd"
                 android:layout_marginTop="@dimen/detail_screen_location_marginTop"
                 android:layout_marginEnd="@dimen/detail_screen_location_marginStartEnd"
-                android:textColor="@color/colorAccent"
+                android:textColor="@color/colorPrimaryDark"
                 android:textSize="@dimen/detail_screen_location_text_size"
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"

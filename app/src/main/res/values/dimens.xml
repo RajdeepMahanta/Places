@@ -19,7 +19,7 @@
 
     <dimen name="no_records_available_text_size">16sp</dimen>
 
-    <dimen name="item_happy_place_cv_main_marginStartEnd">8dp</dimen>
+    <dimen name="item_happy_place_cv_main_marginStartEnd">3dp</dimen>
     <dimen name="item_happy_place_cv_corner_radius">3dp</dimen>
     <dimen name="item_happy_place_cv_elevation">3dp</dimen>
     <dimen name="item_happy_places_content_padding">5dp</dimen>

@@ -4,11 +4,11 @@
         <!-- Customize your light theme here. -->
 <!--         <item name="colorPrimary">@color/my_light_primary</item> -->
          <item name="colorPrimary">@color/colorPrimary</item>
-         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+         <item name="colorPrimaryDark">@color/button_background_color</item>
          <item name="colorAccent">@color/colorAccent</item>
     </style>
     <style name="CustomNoActionBarTheme" parent="@style/Theme.MaterialComponents.Light.NoActionBar">
-        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="android:statusBarColor">@color/button_background_color</item>
     </style>
     <style name="CustomToolbarStyle">
         <item name="android:textColorPrimary">#FFFFFF</item>
